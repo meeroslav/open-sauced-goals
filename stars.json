@@ -13,21 +13,21 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 15405,
-    "open_issues_count": 679,
-    "forks_count": 1510
+    "stargazers_count": 15460,
+    "open_issues_count": 694,
+    "forks_count": 1511
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 8376,
+    "stargazers_count": 8395,
     "open_issues_count": 77,
-    "forks_count": 240
+    "forks_count": 242
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 6735,
-    "open_issues_count": 49,
-    "forks_count": 180
+    "stargazers_count": 6776,
+    "open_issues_count": 51,
+    "forks_count": 181
   },
   {
     "full_name": "meeroslav/gulp-inject-partials",
@@ -39,13 +39,13 @@
     "full_name": "nrwl/nx-set-shas",
     "stargazers_count": 72,
     "open_issues_count": 7,
-    "forks_count": 24
+    "forks_count": 27
   },
   {
     "full_name": "nrwl/last-successful-commit-action",
     "stargazers_count": 42,
     "open_issues_count": 1,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "kmaida/speakerbot",
@@ -61,8 +61,8 @@
   },
   {
     "full_name": "rx-angular/rx-angular",
-    "stargazers_count": 1453,
-    "open_issues_count": 82,
+    "stargazers_count": 1456,
+    "open_issues_count": 86,
     "forks_count": 143
   },
   {
@@ -79,14 +79,14 @@
   },
   {
     "full_name": "kencrocken/FiraCodeiScript",
-    "stargazers_count": 1204,
+    "stargazers_count": 1202,
     "open_issues_count": 12,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "manfredsteyer/ngx-build-plus",
     "stargazers_count": 1153,
-    "open_issues_count": 161,
+    "open_issues_count": 164,
     "forks_count": 139
   },
   {
@@ -109,7 +109,7 @@
   },
   {
     "full_name": "kitze/awesome-conference-practices",
-    "stargazers_count": 1039,
+    "stargazers_count": 1040,
     "open_issues_count": 8,
     "forks_count": 53
   },
@@ -121,32 +121,32 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 115087,
-    "open_issues_count": 4780,
-    "forks_count": 8362
+    "stargazers_count": 115159,
+    "open_issues_count": 4782,
+    "forks_count": 8368
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44293,
-    "open_issues_count": 1117,
-    "forks_count": 3611
+    "stargazers_count": 44314,
+    "open_issues_count": 1106,
+    "forks_count": 3616
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 19763,
-    "open_issues_count": 2641,
-    "forks_count": 3571
+    "stargazers_count": 19784,
+    "open_issues_count": 2650,
+    "forks_count": 3573
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53828,
-    "open_issues_count": 227,
+    "stargazers_count": 53842,
+    "open_issues_count": 137,
     "forks_count": 10485
   },
   {
     "full_name": "thelgevold/angular-samples",
     "stargazers_count": 1013,
-    "open_issues_count": 13,
+    "open_issues_count": 14,
     "forks_count": 304
   },
   {
@@ -163,15 +163,15 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7555,
+    "stargazers_count": 7558,
     "open_issues_count": 9,
-    "forks_count": 1296
+    "forks_count": 1295
   },
   {
     "full_name": "swimlane/ngx-datatable",
-    "stargazers_count": 4511,
-    "open_issues_count": 856,
-    "forks_count": 1635
+    "stargazers_count": 4512,
+    "open_issues_count": 857,
+    "forks_count": 1636
   },
   {
     "full_name": "bruno-garcia/Bazinga.AspNetCore.Authentication.Basic",
