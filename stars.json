@@ -25,21 +25,21 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 15658,
-    "open_issues_count": 731,
-    "forks_count": 1531
+    "stargazers_count": 15711,
+    "open_issues_count": 753,
+    "forks_count": 1534
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 8464,
-    "open_issues_count": 80,
+    "stargazers_count": 8484,
+    "open_issues_count": 81,
     "forks_count": 248
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 6930,
-    "open_issues_count": 58,
-    "forks_count": 182
+    "stargazers_count": 6967,
+    "open_issues_count": 63,
+    "forks_count": 183
   },
   {
     "full_name": "meeroslav/gulp-inject-partials",
@@ -49,8 +49,8 @@
   },
   {
     "full_name": "nrwl/nx-set-shas",
-    "stargazers_count": 73,
-    "open_issues_count": 7,
+    "stargazers_count": 74,
+    "open_issues_count": 9,
     "forks_count": 29
   },
   {
@@ -67,14 +67,14 @@
   },
   {
     "full_name": "juristr/egghead-scale-react-dev-with-nx",
-    "stargazers_count": 47,
+    "stargazers_count": 49,
     "open_issues_count": 1,
     "forks_count": 31
   },
   {
     "full_name": "rx-angular/rx-angular",
-    "stargazers_count": 1467,
-    "open_issues_count": 88,
+    "stargazers_count": 1470,
+    "open_issues_count": 90,
     "forks_count": 143
   },
   {
@@ -85,20 +85,20 @@
   },
   {
     "full_name": "v002/v002-Camera-Live",
-    "stargazers_count": 1142,
+    "stargazers_count": 1143,
     "open_issues_count": 82,
     "forks_count": 106
   },
   {
     "full_name": "kencrocken/FiraCodeiScript",
-    "stargazers_count": 1208,
+    "stargazers_count": 1209,
     "open_issues_count": 12,
     "forks_count": 147
   },
   {
     "full_name": "manfredsteyer/ngx-build-plus",
-    "stargazers_count": 1151,
-    "open_issues_count": 171,
+    "stargazers_count": 1153,
+    "open_issues_count": 176,
     "forks_count": 139
   },
   {
@@ -133,26 +133,26 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 115571,
-    "open_issues_count": 4787,
-    "forks_count": 8417
+    "stargazers_count": 115696,
+    "open_issues_count": 4791,
+    "forks_count": 8438
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 44406,
-    "open_issues_count": 1118,
-    "forks_count": 3637
+    "stargazers_count": 44423,
+    "open_issues_count": 1119,
+    "forks_count": 3643
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 19843,
-    "open_issues_count": 2624,
-    "forks_count": 3590
+    "stargazers_count": 19849,
+    "open_issues_count": 2634,
+    "forks_count": 3593
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 53899,
-    "open_issues_count": 127,
+    "stargazers_count": 53911,
+    "open_issues_count": 122,
     "forks_count": 10498
   },
   {
@@ -164,7 +164,7 @@
   {
     "full_name": "Greentube/ngx-modal",
     "stargazers_count": 55,
-    "open_issues_count": 62,
+    "open_issues_count": 65,
     "forks_count": 36
   },
   {
@@ -175,8 +175,8 @@
   },
   {
     "full_name": "mgechev/javascript-algorithms",
-    "stargazers_count": 7568,
+    "stargazers_count": 7574,
     "open_issues_count": 10,
-    "forks_count": 1295
+    "forks_count": 1294
   }
 ]
