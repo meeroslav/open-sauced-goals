@@ -1,8 +1,8 @@
 [
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 4760,
-    "open_issues_count": 81,
+    "stargazers_count": 4782,
+    "open_issues_count": 80,
     "forks_count": 151
   },
   {
@@ -31,19 +31,19 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 18032,
-    "open_issues_count": 615,
-    "forks_count": 1815
+    "stargazers_count": 18062,
+    "open_issues_count": 616,
+    "forks_count": 1824
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 9442,
+    "stargazers_count": 9452,
     "open_issues_count": 89,
-    "forks_count": 288
+    "forks_count": 289
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8344,
+    "stargazers_count": 8349,
     "open_issues_count": 56,
     "forks_count": 220
   },
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "rx-angular/rx-angular",
-    "stargazers_count": 1656,
+    "stargazers_count": 1654,
     "open_issues_count": 115,
     "forks_count": 161
   },
@@ -91,19 +91,19 @@
   },
   {
     "full_name": "v002/v002-Camera-Live",
-    "stargazers_count": 1154,
+    "stargazers_count": 1153,
     "open_issues_count": 82,
     "forks_count": 106
   },
   {
     "full_name": "kencrocken/FiraCodeiScript",
-    "stargazers_count": 1276,
+    "stargazers_count": 1278,
     "open_issues_count": 12,
     "forks_count": 167
   },
   {
     "full_name": "manfredsteyer/ngx-build-plus",
-    "stargazers_count": 1175,
+    "stargazers_count": 1176,
     "open_issues_count": 188,
     "forks_count": 141
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 121351,
+    "stargazers_count": 121406,
     "open_issues_count": 4740,
-    "forks_count": 9078
+    "forks_count": 9085
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 45822,
-    "open_issues_count": 1187,
-    "forks_count": 3914
+    "stargazers_count": 45839,
+    "open_issues_count": 1186,
+    "forks_count": 3919
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 20959,
-    "open_issues_count": 1781,
-    "forks_count": 3800
+    "stargazers_count": 20980,
+    "open_issues_count": 1789,
+    "forks_count": 3803
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 54561,
-    "open_issues_count": 150,
-    "forks_count": 10543
+    "stargazers_count": 54579,
+    "open_issues_count": 144,
+    "forks_count": 10545
   },
   {
     "full_name": "thelgevold/angular-samples",
