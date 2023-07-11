@@ -1,9 +1,9 @@
 [
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 4829,
-    "open_issues_count": 81,
-    "forks_count": 155
+    "stargazers_count": 4868,
+    "open_issues_count": 78,
+    "forks_count": 157
   },
   {
     "full_name": "rileyjshaw/po-33",
@@ -31,20 +31,20 @@
   },
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 18189,
-    "open_issues_count": 658,
-    "forks_count": 1852
+    "stargazers_count": 18287,
+    "open_issues_count": 661,
+    "forks_count": 1862
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 9483,
-    "open_issues_count": 90,
-    "forks_count": 293
+    "stargazers_count": 9495,
+    "open_issues_count": 92,
+    "forks_count": 294
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 8380,
-    "open_issues_count": 54,
+    "stargazers_count": 8395,
+    "open_issues_count": 56,
     "forks_count": 221
   },
   {
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "rx-angular/rx-angular",
-    "stargazers_count": 1658,
+    "stargazers_count": 1663,
     "open_issues_count": 114,
     "forks_count": 162
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 121513,
-    "open_issues_count": 4746,
-    "forks_count": 9097
+    "stargazers_count": 121591,
+    "open_issues_count": 4748,
+    "forks_count": 9107
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 45910,
-    "open_issues_count": 1190,
-    "forks_count": 3923
+    "stargazers_count": 46121,
+    "open_issues_count": 1205,
+    "forks_count": 3935
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 21025,
-    "open_issues_count": 1792,
-    "forks_count": 3803
+    "stargazers_count": 21043,
+    "open_issues_count": 1798,
+    "forks_count": 3804
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 54597,
-    "open_issues_count": 142,
-    "forks_count": 10544
+    "stargazers_count": 54604,
+    "open_issues_count": 147,
+    "forks_count": 10548
   },
   {
     "full_name": "thelgevold/angular-samples",
