@@ -1,15 +1,15 @@
 [
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 21197,
-    "open_issues_count": 844,
-    "forks_count": 2141
+    "stargazers_count": 21223,
+    "open_issues_count": 847,
+    "forks_count": 2146
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 11519,
-    "open_issues_count": 147,
-    "forks_count": 308
+    "stargazers_count": 11690,
+    "open_issues_count": 143,
+    "forks_count": 312
   },
   {
     "full_name": "rileyjshaw/po-33",
@@ -19,7 +19,7 @@
   },
   {
     "full_name": "cspotcode/PO-33-KO-backup-re",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -37,14 +37,14 @@
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 10426,
+    "stargazers_count": 10433,
     "open_issues_count": 101,
     "forks_count": 329
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 9108,
-    "open_issues_count": 57,
+    "stargazers_count": 9117,
+    "open_issues_count": 59,
     "forks_count": 257
   },
   {
@@ -55,7 +55,7 @@
   },
   {
     "full_name": "nrwl/nx-set-shas",
-    "stargazers_count": 126,
+    "stargazers_count": 127,
     "open_issues_count": 10,
     "forks_count": 61
   },
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "rx-angular/rx-angular",
-    "stargazers_count": 1807,
-    "open_issues_count": 134,
-    "forks_count": 175
+    "stargazers_count": 1809,
+    "open_issues_count": 135,
+    "forks_count": 176
   },
   {
     "full_name": "angular-component/router",
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "kencrocken/FiraCodeiScript",
-    "stargazers_count": 1327,
+    "stargazers_count": 1329,
     "open_issues_count": 12,
     "forks_count": 174
   },
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 126950,
+    "stargazers_count": 127000,
     "open_issues_count": 4263,
-    "forks_count": 9790
+    "forks_count": 9795
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 47774,
-    "open_issues_count": 1324,
-    "forks_count": 4273
+    "stargazers_count": 47782,
+    "open_issues_count": 1326,
+    "forks_count": 4274
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 22015,
-    "open_issues_count": 1967,
-    "forks_count": 4010
+    "stargazers_count": 22023,
+    "open_issues_count": 1969,
+    "forks_count": 4014
   },
   {
     "full_name": "gatsbyjs/gatsby",
-    "stargazers_count": 54936,
+    "stargazers_count": 54948,
     "open_issues_count": 321,
-    "forks_count": 10597
+    "forks_count": 10596
   },
   {
     "full_name": "thelgevold/angular-samples",
