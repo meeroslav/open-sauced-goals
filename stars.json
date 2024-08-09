@@ -1,15 +1,15 @@
 [
   {
     "full_name": "nrwl/nx",
-    "stargazers_count": 22846,
-    "open_issues_count": 676,
-    "forks_count": 2279
+    "stargazers_count": 22869,
+    "open_issues_count": 683,
+    "forks_count": 2280
   },
   {
     "full_name": "honojs/hono",
-    "stargazers_count": 17494,
-    "open_issues_count": 194,
-    "forks_count": 489
+    "stargazers_count": 17555,
+    "open_issues_count": 193,
+    "forks_count": 488
   },
   {
     "full_name": "rileyjshaw/po-33",
@@ -37,15 +37,15 @@
   },
   {
     "full_name": "theatre-js/theatre",
-    "stargazers_count": 11097,
+    "stargazers_count": 11110,
     "open_issues_count": 118,
-    "forks_count": 346
+    "forks_count": 350
   },
   {
     "full_name": "vanilla-extract-css/vanilla-extract",
-    "stargazers_count": 9438,
-    "open_issues_count": 70,
-    "forks_count": 283
+    "stargazers_count": 9442,
+    "open_issues_count": 72,
+    "forks_count": 285
   },
   {
     "full_name": "meeroslav/gulp-inject-partials",
@@ -79,9 +79,9 @@
   },
   {
     "full_name": "rx-angular/rx-angular",
-    "stargazers_count": 1879,
-    "open_issues_count": 133,
-    "forks_count": 188
+    "stargazers_count": 1880,
+    "open_issues_count": 134,
+    "forks_count": 189
   },
   {
     "full_name": "angular-component/router",
@@ -139,27 +139,27 @@
   },
   {
     "full_name": "ytdl-org/youtube-dl",
-    "stargazers_count": 130499,
+    "stargazers_count": 130565,
     "open_issues_count": 4202,
-    "forks_count": 9849
+    "forks_count": 9859
   },
   {
     "full_name": "prettier/prettier",
-    "stargazers_count": 48860,
-    "open_issues_count": 1371,
-    "forks_count": 4245
+    "stargazers_count": 48878,
+    "open_issues_count": 1375,
+    "forks_count": 4251
   },
   {
     "full_name": "bazelbuild/bazel",
-    "stargazers_count": 22810,
-    "open_issues_count": 2028,
+    "stargazers_count": 22817,
+    "open_issues_count": 2038,
     "forks_count": 4007
   },
   {
     "full_name": "gatsbyjs/gatsby",
     "stargazers_count": 55167,
-    "open_issues_count": 370,
-    "forks_count": 10334
+    "open_issues_count": 368,
+    "forks_count": 10333
   },
   {
     "full_name": "thelgevold/angular-samples",
